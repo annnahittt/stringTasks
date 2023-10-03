@@ -28,7 +28,7 @@
 //
 //$num = '0007947023.22';
 //$noZero = ltrim($num, "0");
-//echo $noZero;
+//echo $noZero ;
 //
 //$text = 'https://www.wm-school.ru/7478639';
 //$position = strrpos($text, '/' );
